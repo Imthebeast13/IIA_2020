@@ -1,0 +1,36 @@
+#inicializacao atributos
+#verifica se o colar esta na condicao inicial que deve
+#metodo que verifica se o colar esta na condicao inicial que deve
+#variavel que vai receber as diferentes cores
+#conta quantos grupos de 9 elementos sao formados
+#conta quantos grupos de 10 elementos sao formados
+#verifica se os elementos do meio são iguais ou se o tamanho do anel e diferente de 20
+#verificar se uma dada cor esta na lista de cores
+#verifica se --> acabar
+#insere cor na lista differentColors
+#vai verificar quantos conjuntos de 9 e 10 elementos existem
+#define acoes possiveis para um dado estado
+#inicializacao da lista que vai receber as acoes 
+#girar no sentido dos ponteiros do relogio
+#girar no sentido contrario aos ponteiros do relogio
+    #define resultado de uma acao num dado estado
+#inicializacao do dicionario que vai receber o caminho-resultado
+#chamada do metodo actions para listar as varias acoes a partir do estado
+#guarda o sentido H ou aH
+#guarda o num anel que vai rodar
+#se o sentido for horario, a missanga que estava num sitio avanca uma casa para a direita
+#percorre os varios elementos do anel
+#avancar de elementos uma vez para a direita
+#se o sentido for antihorario, a missanga num dado sitio avanca uma casa para a esquerda
+#avanco para a esquerda
+#alteracao das missangas do meio ?
+#verifica se um dado estado e o desejado(goal)
+#determina custo que tem um estado ao realizar uma acao para prosseguir para um dado estado
+#visualizacao grafica dos aneis
+#contadores de cima para baixo de cada circulo
+#construcao da matriz de aneis que permita a visualizacao dos aneis
+#impressao propriamente dita
+#criacao de uma instancia da classe para possibilitar a execucao do programa
+#determinacao do resultado da acao de chamar uma vez o antihorario no estado inicial
+#imprime a execucao no estado inicial de um conjunto de acoes dele
+#mostrar a visualizacao do resultado dos colares apos executar uma vez o antihorario no estado inicial
